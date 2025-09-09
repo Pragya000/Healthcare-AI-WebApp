@@ -33,9 +33,9 @@ All the datasets used to train the models can be found on the Kaggle website.
 
 ## Libraries Used:
 
-- **Flask:** for backend web development
-- **Scikit-learn & TensorFlow:** for training the disease prediction models
-- **SQLAlchemy:** library for handling SQLite database
+- **Flask:** for backend web development.
+- **Scikit-learn & TensorFlow:** for training the disease prediction models.
+- **SQLAlchemy:** library for handling SQLite database.
 
 ## How to Run This Project:
 
@@ -74,4 +74,4 @@ Run the Docker container:
 docker run -p 5000:5000 healthcare-ai-webapp
 ```
 
-You should be able to access your app by visiting [http://localhost:5000/](http://localhost:5000/) in your browser.
+You should be able to access your app by visiting [http://localhost:5000/](http://localhost:5000/) in your browser
